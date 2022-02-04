@@ -1,0 +1,6 @@
+framework module Pods_clonetry {
+  umbrella header "Pods-clonetry-umbrella.h"
+
+  export *
+  module * { export * }
+}
